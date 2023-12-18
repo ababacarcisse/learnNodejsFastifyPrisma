@@ -1,0 +1,17 @@
+{
+  "name": "learnnode",
+  "version": "1.0.0",
+  "description": "application aprendre node js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watsh src/server.js"
+  },
+  "author": "ababcar cisse",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/view": "^8.2.0",
+    "ejs": "^3.1.9",
+    "fastify": "^4.25.0"
+  }
+}
